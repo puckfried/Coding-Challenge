@@ -1,4 +1,4 @@
-# JS-challenge
+# Little coding challenge
 
 In this repo you find a text file. This text file contains of lines of charaacters, in every line you find numbers, try to read the file line by line and always take the first digit and the last digit and form a 2 number digit out of it. At the end make sum of all the 2 digit numbers.
 
